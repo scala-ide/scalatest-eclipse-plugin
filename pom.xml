@@ -209,9 +209,9 @@
   </profiles>
 
   <!-- scm configuration is require to extract the github hash-->
-  <scm> 
-    <connection>scm:git://github.com/skyluc/scalatest.git</connection> 
-    <url>https://github.com/skyluc/scalatest</url> 
+  <scm>
+    <connection>scm:git://github.com/scalatest/scalatest-eclipse-plugin.git</connection>
+    <url>https://github.com/scalatest/scalatest-eclipse-plugin</url>
   </scm>
 
   <dependencyManagement>
